@@ -9,7 +9,7 @@
   margin-left: auto; margin-right: auto;
   border-style: solid;
   border-color: lightgray;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
 }
 
 textarea {
@@ -48,7 +48,7 @@ textarea {
 }
 
 .social-media-icons a:nth-child(1) i {
-	color: #baa88d;
+	color: red;
 }
 
 .social-media-icons a:nth-child(2) i {
