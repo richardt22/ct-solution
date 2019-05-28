@@ -1,0 +1,35 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.content {
+  margin-left: auto; margin-right: auto;
+  border-style: solid;
+  border-color: lightgray;
+}
+
+textarea {
+  width: 100%;
+}
+
+.footer1 {
+  background-color: #4a4f55;
+  color: white;
+  width: 100%;
+}
+
+.footer2 {
+  background-color: #2a2a2a;
+  color: gray;
+}
+
+input[type=text] {
+  background-color: #e6e6e6;
+}
+
+textarea {
+  background-color: #e6e6e6;
+}
