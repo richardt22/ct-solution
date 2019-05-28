@@ -9,6 +9,7 @@
   margin-left: auto; margin-right: auto;
   border-style: solid;
   border-color: lightgray;
+  padding-bottom: 10px;
 }
 
 textarea {
@@ -18,7 +19,7 @@ textarea {
 .footer1 {
   background-color: #4a4f55;
   color: white;
-  width: 100%;
+  padding-top: 10px;
 }
 
 .footer2 {
@@ -32,4 +33,36 @@ input[type=text] {
 
 textarea {
   background-color: #e6e6e6;
+}
+
+.social-media-icons ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.social-media-icons a {
+	display: inline-block;
+	text-decoration: none;
+	padding: 7px;
+}
+
+.social-media-icons a:nth-child(1) i {
+	color: #baa88d;
+}
+
+.social-media-icons a:nth-child(2) i {
+	color: #baa88d;
+}
+
+.social-media-icons a:nth-child(3) i {
+	color: #baa88d;
+}
+
+.social-media-icons a:nth-child(4) i {
+	color: #baa88d;
+}
+
+.social-media-icons a i:hover{
+	color: black;
 }
